@@ -1,1 +1,1 @@
-{"min_val": -1, "max_val": -1}
+{"min_val": 0, "max_val": 0, "hough_threshold": 0, "min_line_length": 0, "max_line_gap": 0, "rho": 0.01}
